@@ -1,11 +1,11 @@
 /**
-* Developer: Minhas Kamal (BSSE-0509, IIT, DU)
+* Developer: Adam Rahman (BSSE-0509, IIT, DU)
 * Date: 28.Sep.15
 **/
 
-#define FOLDER_NAME "trojanCockroach"  //containing folder
-#define RUN_FILE_NAME "TrojanCockroach.exe"  //main run file
-#define RUN_LINK_NAME "TrojanCockroach.lnk"  //starter link
+#define FOLDER_NAME "isyt"  //containing folder
+#define RUN_FILE_NAME "isyt.exe"  //main run file
+#define RUN_LINK_NAME "isyt.lnk"  //starter link
 #define INFECT_FILE_NAME "Infect.exe"  //infects computer
 #define INFECT_LINK_NAME "Infect.lnk"  //link file
 #define EMAIL_SENDER_FILE_NAME "Transmit.exe"  //email sender
